@@ -1,7 +1,7 @@
-# 📰 Portal de Pelicries
+# 📰 Portal de Pantallux
 Proyecto de peliculas y series de entretenimiento alojado en GitHub Pages.
 
-🔗 **Sitio Web:** [pelicries.gieovannyfrias.com](https://pelicries.gieovannyfrias.com)
+🔗 **Sitio Web:** [pantallux.gieovannyfrias.com](https://pantallux.gieovannyfrias.com)
 
 ---
 
@@ -10,5 +10,5 @@ Proyecto de peliculas y series de entretenimiento alojado en GitHub Pages.
 2. Los cambios se reflejan automáticamente en el subdominio.
 
 ### ⚙️ Notas de Configuración
-- **Dominio:** pelicries.gieovannyfrias.com
-- **DNS:** CNAME apuntando a `pelicries.github.io`
+- **Dominio:** pantallux.gieovannyfrias.com
+- **DNS:** CNAME apuntando a `pantallux.github.io`
