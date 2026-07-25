@@ -1,5 +1,5 @@
-const CACHE_NAME = 'pelicries-static-v1';
-const NEWS_CACHE = 'pelicries-cache-v1';
+const CACHE_NAME = 'pantallux-static-v1';
+const NEWS_CACHE = 'pantallux-cache-v1';
 
 const APP_SHELL = [
   './index.html',
