@@ -60,6 +60,9 @@ document.addEventListener("DOMContentLoaded", () => {
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
       transition: opacity 0.3s;
+display: flex;
+    flex-wrap: wrap;
+    align-items: center;
     }
     
     .header-logo a:hover {
@@ -248,7 +251,7 @@ document.addEventListener("DOMContentLoaded", () => {
   headerContainer.className = "custom-header";
   headerContainer.innerHTML = `
     <div class="header-logo">
-      <a href="#">Pantallux</a>
+      <a href="#"><img src="https://pantallux.gieovannyfrias.com/Imagenes/Logo_transparente.webp" style="width: 100px; height: 60px;">Pantallux</a>
     </div>
     <button class="menu-toggle" aria-label="Abrir menú">
       <span></span>
